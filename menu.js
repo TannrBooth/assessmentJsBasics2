@@ -137,7 +137,7 @@ let foodArr = [spaghetti,breadStick,caesarSalad]
 
 const filteredFood = foodArr.filter((food)=>food.tags.includes('add side'))
 
-// console.log(filteredFood)
+console.log(filteredFood)
 
 
 

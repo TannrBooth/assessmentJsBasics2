@@ -101,7 +101,7 @@ console.log(
 
 const customer = {
     name: 'Julie',
-    customerId: 00012,
+    customerId: 100012,
     lastTransaction: 25,
     totalSpent: 280,
     marketingOptIn: true
